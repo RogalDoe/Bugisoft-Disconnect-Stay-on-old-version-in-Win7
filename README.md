@@ -11,7 +11,7 @@ Hello there,
 First need Bugisoft Disconnect version 142.2.0.10887 (Stable / Unstable) Findable here :
 https://uplay.en.uptodown.com/windows/download/103967318
 
-After installer just launch bugisoft disconnect and when you see Bugisoft Disconnect updating close it imediatly and go into :
+After installed just launch bugisoft disconnect and when you see Bugisoft Disconnect updating close it imediatly and go into :
 
 C:\Users\All Users\Ubisoft\Ubisoft Game Launcher\patch
 (Find version build and copy it -Its should be the folder itself just copy is number )
