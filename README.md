@@ -2,7 +2,7 @@
 This is a tutorial to use Bugisoft Disconnect in older version without updating it and keep using it in is a desired build
 Hello there,
 
-I have an interesting trick to andle this for Bugisoft Disconnect !!
+
 
 First need Bugisoft Disconnect version 142.2.0.10887 (Stable / Unstable) Findable here :
 https://uplay.en.uptodown.com/windows/download/103967318
